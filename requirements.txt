@@ -1,0 +1,10 @@
+beautifulsoup4
+bs4
+certifi
+charset-normalizer
+colorama
+idna
+pyTelegramBotAPI
+requests
+soupsieve
+urllib3
